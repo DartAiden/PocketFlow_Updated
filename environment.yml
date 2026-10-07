@@ -7,6 +7,8 @@ channels:
   - defaults
   - conda-forge
 dependencies:
+  - boost=1.70.0
+  - boost-cpp=1.70.0
   - cuda-cudart=11.7.99
   - cuda-cupti=11.7.101
   - cuda-libraries=11.7.1
